@@ -6,17 +6,17 @@
   "config_category": "social",
   "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
   "config_name": "Restaurant Social Ghosts in Delaware, US",
-  "export_job_id": "b15f08e5-1791-4f6b-9843-aa594a8074bf",
+  "export_job_id": "05f3afdb-ea6c-4cc3-9e89-a35d59f9ffaa",
   "github_org": "Beamstation-Datasets",
   "id_short": 217150,
   "location_name": "Delaware",
   "location_type": "state",
   "repo_name": "restaurant-social-ghosts-in-delaware-us-sample-217150",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/217150/beamstation_217150_restaurants-us-de_SAMPLE_DIST.csv",
-  "sample_pct": 8.33,
+  "sample_pct": 8.0,
   "sample_records": 2,
-  "sample_sha256": "6d95851f932a3c9c39f875e9e6d5e386a46b39d6704dfe6c8ffe89b5104f8805",
-  "sample_size_bytes": 24101,
-  "total_records": 24,
-  "updated_at": "2026-04-08T06:03:05.609140+00:00"
+  "sample_sha256": "bdc074eedcc0fdebcf463e884826e6eb9d46633cba7f5d44e5e4aadb9697ba50",
+  "sample_size_bytes": 23558,
+  "total_records": 25,
+  "updated_at": "2026-04-15T10:01:58.988638+00:00"
 }
