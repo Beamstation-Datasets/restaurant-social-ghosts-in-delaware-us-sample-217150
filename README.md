@@ -9,9 +9,9 @@
 | Dataset ID | `217150` |
 | Location | Delaware |
 | Category | Restaurants |
-| Full dataset size | 12 records |
-| Free sample size | 1 records (8.33%) |
-| Last export | 2026-04-22T17:29:13.521256+00:00 |
+| Full dataset size | 13 records |
+| Free sample size | 1 records (7.69%) |
+| Last export | 2026-04-29T17:17:37.844890+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-delaware-us-sample-217150/releases/download/sample-latest/beamstation_217150_restaurants-us-de_SAMPLE_DIST.csv) |
 
 ## What is in this sample
