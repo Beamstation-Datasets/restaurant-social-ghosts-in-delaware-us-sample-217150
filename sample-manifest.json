@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7844c3f5-ffd5-4eab-93d8-0006464ebe48",
+  "export_job_id": "86326dbb-31da-4a4e-b2bb-68499fe04de3",
   "id_short": 217150,
-  "published_at": "2026-04-22T19:23:39Z",
+  "published_at": "2026-04-29T19:22:30Z",
   "repo_name": "restaurant-social-ghosts-in-delaware-us-sample-217150",
   "sample_asset_name": "beamstation_217150_restaurants-us-de_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/217150/beamstation_217150_restaurants-us-de_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "c1fcd4d8156fa3453c985fef38942fac01f6e9208c970318ddf63a564a298443",
-  "sample_size_bytes": 20450,
-  "total_records": 12
+  "sample_sha256": "417027d4f815ef1b37867d83eb754bf83bbac257bc5a10057f86768e52100be8",
+  "sample_size_bytes": 20197,
+  "total_records": 13
 }
